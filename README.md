@@ -22,6 +22,6 @@ My space
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,docker,js,jquery,mysql,php,rails,vscode,css" />
+    <img src="https://skillicons.dev/icons?i=git,html,docker,js,jquery,mysql,php,vscode,css" />
   </a>
 </p>
