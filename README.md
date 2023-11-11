@@ -14,14 +14,10 @@ My space
 
 ### :woman_technologist: About Me :
   
-- :shell: My name is faten alsahli
-- 🔭 I’m working as a Data analyst 
-- :bar_chart: I’m currently learning how to create awesome report with power bi
+- :shell: My name is Faten Almanajli
+- 🔭 I’m working as a Planning & Modeling Sr.Analyst Sales
+- :bar_chart: I’m currently learning how to create an awesome report with Power bi and improve my skills in data analysis
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,docker,js,jquery,mysql,php,vscode,css" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,sqlite,mysql,git)](https://skillicons.dev)
